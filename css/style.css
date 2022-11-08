@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+
+.header,
+.content {
+	font-family: "Lato", sans-serif;
+	font-weight: 400;
+	color: #424551;
+	line-height: 1.6;
+	max-width: 810px;
+	margin: 0 auto;
+}
+
+span {
+	color: #FF3F3A;
+}
+
+.block-one,
+.block-three {
+	color: #1E212C;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 1.5;
+}
+
+.header {
+	padding-top: 13px;
+	margin-bottom: 12px;
+}
+
+.title {
+	font-weight: 900;
+	color: #1E212C;
+	font-size: 46px;
+	margin-bottom: 92px;
+}
+
+.image {
+	max-width: 100%;
+	margin-bottom: 60px;
+}
+
+.block-one,
+.block-four,
+.block-five,
+.block-six {
+	margin-bottom: 24px;
+}
+.block-two,
+.block-three {
+	margin-bottom: 48px;
+}
+
+.block-three {
+	padding-left: 58px;
+}
+
+.block-five {
+	padding-left: 32px;
+}
+
+.block1,
+.block2,
+.block3,
+.block4 {
+	max-width: 1230px;
+	margin: 0 auto;
+	margin-bottom: 35px;
+	border-radius: 3px;
+}
+
+.block1 {
+	background: url('../img/4.jpg') 0 0/50px no-repeat, url('../img/2.jpg') 100% 30%/50px no-repeat, url('../img/1.jpg') 50% no-repeat;
+	background-size: 325px 220px;
+	height: 220px;
+}
+
+
+[class*="text"] {
+	font-family: "Monoton", sans-serif;
+	font-weight: 400;
+	font-size: 50px;
+	color: rgb(255, 255, 255);
+}
+
+.text-one {
+	text-align: left;
+	padding-top: 35px;
+}
+
+.text-two {
+	text-align: center;
+}
+
+.text-tree {
+	text-align: right;
+}
+
+.block2 {
+	height: 400px;
+	background: url('../img/5.jpg') 25px 25px no-repeat fixed;
+}
+
+.block3 {
+	height: 625px;
+	background: url('../img/kfs.jpg') 0 0 / 50% no-repeat, url('../img/8.jpg') no-repeat;
+	border: 10px solid;
+}
+
+.text-four {
+	padding-top: 20px;
+	text-align: right;
+	font-size: 40px;
+	text-transform: uppercase;
+	word-spacing: 10px;
+	letter-spacing: 10px;
+}
+
+.text-five {
+	text-align: right;
+	font-size: 25px;
+	padding-top: 65px;
+	line-height: 1.5;
+	word-spacing: 1px;
+	letter-spacing: 5px;
+}
+
+.block4 {
+	height: 500px;
+	background: url('../img/vova.jpeg') left bottom / 13% no-repeat, url('../img/ukraina.jpg') 50%/cover no-repeat;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
